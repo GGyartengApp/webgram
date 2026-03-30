@@ -18,7 +18,7 @@ const DashboardLayout = () => {
           width: 64,
           borderRadius: 2.5
         }}>
-          <img src={Logo} />
+          <img src={Logo} alt="Webgram Logo"/>
         </Box>
       </Box>
       <Outlet />
